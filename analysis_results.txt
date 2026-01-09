@@ -1,0 +1,10 @@
+Analyzing nova_ai...                                            
+
+   info - Don't invoke 'print' in production code - lib\features\chat\data\speech_service.dart:9:23 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\chat\data\speech_service.dart:10:24 - avoid_print
+   info - 'partialResults' is deprecated and shouldn't be used. Use SpeechListenOptions.partialResults instead - lib\features\chat\data\speech_service.dart:27:9 - deprecated_member_use
+   info - 'cancelOnError' is deprecated and shouldn't be used. Use SpeechListenOptions.cancelOnError instead - lib\features\chat\data\speech_service.dart:28:9 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\settings\settings_page.dart:44:53 - deprecated_member_use
+  error - The method 'savePersona' isn't defined for the type 'SettingsService' - lib\features\settings\settings_page.dart:49:34 - undefined_method
+  error - The function 'SettingsService' isn't defined - lib\main.dart:19:37 - undefined_function
+

@@ -1,0 +1,73 @@
+name: nova_ai
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+environment:
+  sdk: ^3.10.0
+
+# Dependencies specify other packages that your package needs in order to work.
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^9.0.0
+  equatable: ^2.0.5
+  get_it: ^8.0.3
+  
+  # AI и Интернет
+  http: ^1.2.0  # Официальный пакет Gemini
+  
+  # Голос (Слух и Речь)
+  speech_to_text: ^7.0.0
+  flutter_tts: ^4.0.2
+  shared_preferences: ^2.2.2
+  
+  # Красота (Анимации)
+  avatar_glow: ^3.0.1           # Пульсация кнопки микрофона
+  google_fonts: ^6.2.1
+  cupertino_icons: ^1.0.8
+
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  intl: ^0.19.0
+  flutter_markdown: ^0.6.14
+
+  porcupine_flutter: ^3.0.1
+  flutter_voice_processor: ^1.1.2
+
+  supabase_flutter: ^2.3.4
+
+  image_picker: ^1.0.7
+  flutter_image_compress: ^2.2.0
+
+  torch_light: ^1.0.2   # Для фонарика
+  url_launcher: ^6.2.5  # Для открытия ссылок
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  analyzer: ^6.4.1
+  flutter_lints: ^6.0.0
+  build_runner: ^2.4.8
+  hive_generator: ^2.0.1
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.3.10
+
+flutter:
+  uses-material-design: true
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon.png" 
+  min_sdk_android: 21 
+
+flutter_native_splash:
+  color: "#000000"             # 🔥 Чисто черный фон (как на Login Page)
+  image: "assets/splash_logo.jpg" # Твоя новая картинка
+
+  # Для Android 12+ (там логика чуть другая, иконка в кружке)
+  android_12:
+    image: "assets/splash_logo.jpg"
+    icon_background_color: "#000000"
+    color: "#000000"

@@ -1,0 +1,10 @@
+Analyzing wake_word_service.dart...                             
+
+   info - Don't invoke 'print' in production code - lib\features\chat\data\wake_word_service.dart:25:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\chat\data\wake_word_service.dart:27:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\chat\data\wake_word_service.dart:34:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\chat\data\wake_word_service.dart:36:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\chat\data\wake_word_service.dart:42:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\chat\data\wake_word_service.dart:47:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\chat\data\wake_word_service.dart:53:5 - avoid_print
+

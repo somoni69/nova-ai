@@ -1,0 +1,11 @@
+Analyzing nova_ai...                                            
+
+   info - Don't invoke 'print' in production code - lib\features\chat\data\speech_service.dart:9:23 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\chat\data\speech_service.dart:10:24 - avoid_print
+   info - 'partialResults' is deprecated and shouldn't be used. Use SpeechListenOptions.partialResults instead - lib\features\chat\data\speech_service.dart:27:9 - deprecated_member_use
+   info - 'cancelOnError' is deprecated and shouldn't be used. Use SpeechListenOptions.cancelOnError instead - lib\features\chat\data\speech_service.dart:28:9 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\chat\presentation\widgets\message_bubble.dart:141:54 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\chat\presentation\widgets\message_bubble.dart:149:25 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\settings\settings_page.dart:60:40 - deprecated_member_use
+   info - Unnecessary use of multiple underscores - lib\main.dart:64:28 - unnecessary_underscores
+
