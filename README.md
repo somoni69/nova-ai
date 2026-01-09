@@ -52,7 +52,7 @@
 ---
 
 ## 📱 Демонстрация (Demo)
-   |:---:|
+
 | ![Screen_Recording_20260109_232823](https://github.com/user-attachments/assets/957fcbd8-b0b5-40da-b21b-928a24a01666) |
 
 
