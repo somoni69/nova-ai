@@ -43,19 +43,12 @@
 
 ---
 
-## 📱 Interface Showcase
+## 📸 Interface & Demo Showcase
 
-| **Login & Auth** | **Smart Chat** | **Vision Mode** | **Voice Overlay** |
-|:---:|:---:|:---:|:---:|
-| ![Screenshot_20260109-145619](https://github.com/user-attachments/assets/2c05ec2d-8640-4889-bafa-fe26752bb92f) | ![Screenshot_20260109-145916](https://github.com/user-attachments/assets/e75e2fee-69c9-46d5-a3ce-879468cba7e6) | ![Screenshot_20260109-145929](https://github.com/user-attachments/assets/933af64f-b329-4bd7-963b-966f717a1556) | ![Screenshot_20260109-145936](https://github.com/user-attachments/assets/5aae5e94-9835-4ae5-8ca7-645a21a19970) |
+| **Login & Auth** | **Smart Chat** | **Vision Mode** | **Settings & Tools ⚙️** |
+|:---:|:---:|:---:|:---:|:---:|
+| ![Screenshot_20260109-145619](https://github.com/user-attachments/assets/2c05ec2d-8640-4889-bafa-fe26752bb92f) | ![Screenshot_20260109-145916](https://github.com/user-attachments/assets/e75e2fee-69c9-46d5-a3ce-879468cba7e6) | ![Screenshot_20260109-145929](https://github.com/user-attachments/assets/933af64f-b329-4bd7-963b-966f717a1556) | ![Screenshot_20260109-145936](https://github.com/user-attachments/assets/5aae5e94-9835-4ae5-8ca7-645a21a19970) | ![Screen_Recording_20260109_232823](https://github.com/user-attachments/assets/41a90e42-db31-4520-bc41-288d3ee92439)  width="200" |
 
----
-
-## 📱 Демонстрация (Demo)
-
-![Screen_Recording_20260109_232823](https://github.com/user-attachments/assets/41a90e42-db31-4520-bc41-288d3ee92439)
-
- 
 ---
 
 
