@@ -45,17 +45,16 @@
 
 ## 📸 Interface & Demo Showcase
 
-Мы объединили ключевые экраны и живую демонстрацию в компактном виде.
-
 | **Login & Auth** | **Smart Chat** | **Live Voice Demo 🗣️** |
 |:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/2c05ec2d-8640-4889-bafa-fe26752bb92f" width="200" alt="Login Screen"/> | <img src="https://github.com/user-attachments/assets/e75e2fee-69c9-46d5-a3ce-879468cba7e6" width="200" alt="Chat Interface"/> | <img src="https://github.com/user-attachments/assets/41a90e42-db31-4520-bc41-288d3ee92439" width="200" alt="Live Demo GIF"/> |
+| <img src="https://github.com/user-attachments/assets/2c05ec2d-8640-4889-bafa-fe26752bb92f" width="200" alt="Login Screen"/> | <img src="https://github.com/user-attachments/assets/e75e2fee-69c9-46d5-a3ce-879468cba7e6" width="200" alt="Chat Interface"/> | <img src="https://github.com/user-attachments/assets/ff10aced-6ecf-4318-83b7-0a363dd735df" width="200" alt="New Live Demo GIF"/> |
 | *Безопасный вход* | *Гибридный чат* | *Режим рации (GIF)* |
 
-| **Vision Mode 👁️** | **Settings & Tools ⚙️** | **Voice Overlay 🎧** |
+| **Vision Mode 👁️** | **Settings & Tools ⚙️** | **Old Demo (Backup)** |
 |:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/933af64f-b329-4bd7-963b-966f717a1556" width="200" alt="Vision Analysis"/> | <img src="https://github.com/user-attachments/assets/5aae5e94-9835-4ae5-8ca7-645a21a19970" width="200" alt="Settings Screen"/> | <img src="https://github.com/user-attachments/assets/933af64f-b329-4bd7-963b-966f717a1556" width="200" alt="Voice UI Placeholder"/> |
-| *Анализ фото* | *Настройки персоны* | *Голосовой режим* |
+| <img src="https://github.com/user-attachments/assets/933af64f-b329-4bd7-963b-966f717a1556" width="200" alt="Vision Analysis"/> | <img src="https://github.com/user-attachments/assets/5aae5e94-9835-4ae5-8ca7-645a21a19970" width="200" alt="Settings Screen"/> | <img src="https://github.com/user-attachments/assets/41a90e42-db31-4520-bc41-288d3ee92439" width="200" alt="Old Demo GIF"/> |
+| *Анализ фото* | *Настройки персоны* | *Предыдущая запись* |
+
 ---
 
 
